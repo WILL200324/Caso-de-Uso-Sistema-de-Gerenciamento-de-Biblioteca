@@ -1,5 +1,5 @@
 # Caso-de-Uso-Sistema-de-Gerenciamento-de-Biblioteca
-fatal: Updating an unborn branch with changes added to the index.
+Este projeto é uma refatoração de um sistema simples de gerenciamento de biblioteca com o objetivo de aplicar os princípios SOLID e boas práticas de Clean Code.
 
  Parte 1: Violações Identificadas no Código Original
 1. 📛 SRP Violado (Single Responsibility Principle)
